@@ -86,10 +86,10 @@ img{
     padding: 5px;
 }
 .skills-title{
-    font-size: 00.75rem;
+    font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
-    padding: 1rem 0.5rem 1rem 0.5rem;
+    padding: 1rem 0.5rem;
 }
 .skill-name{
     font-size: 0.65rem;
